@@ -1,6 +1,6 @@
 ---
 layout: troubleshooting
-title: Inter-VLAN L3 Troubleshooting — P2
+title: VLAN L3 Troubleshooting — P2
 description: "Enterprise inter-VLAN support scenarios. Real-world incident tickets simulating network faults across a Layer 3 switched environment."
 diagram: https://github.com/user-attachments/assets/01d6726b-60a9-4a23-941f-e508577faf98
 
